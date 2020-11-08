@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="28" viewBox="0 0 79 28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 26px;
+        filter: url(#filter);
+        fill: #fff;
+        font-family: "Wisdom Script";
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="79" height="28" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fed136"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="Logo-Treehouse" class="cls-1" x="-0.263" y="19.88">Golden</text>
+</svg>
