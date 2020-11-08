@@ -498,6 +498,10 @@ h1, h2, h3, p{
         .about__line{
             display: none;
         }
+
+        ul{
+            margin: 0;
+        }
 }
 
 @media only screen and (max-width: 732px){
